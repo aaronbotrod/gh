@@ -19,4 +19,3 @@ repo.currentBranch(function( error, branch ) {
     open(url.toString());
   });
 });
-

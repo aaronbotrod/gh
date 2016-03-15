@@ -1,7 +1,7 @@
 {
   "name": "gh",
   "version": "1.0.0",
-  "description": "Command like tool for github",
+  "description": "Command line tool for github",
   "main": "index.js",
   "dependencies": {
     "git-tools": "^0.2.1",
