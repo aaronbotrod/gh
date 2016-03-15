@@ -1,0 +1,32 @@
+{
+  "name": "gh",
+  "version": "1.0.0",
+  "description": "Command like tool for github",
+  "main": "index.js",
+  "dependencies": {
+    "git-tools": "^0.2.1",
+    "open": "0.0.5",
+    "url-parse": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronbotrod/gh.git"
+  },
+  "keywords": [
+    "github",
+    "git"
+  ],
+  "bin": {
+    "gh": "index.js"
+  },
+  "author": "Aaron Botello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronbotrod/gh/issues"
+  },
+  "homepage": "https://github.com/aaronbotrod/gh#readme"
+}
