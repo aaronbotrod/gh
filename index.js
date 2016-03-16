@@ -45,4 +45,3 @@ repo.currentBranch(function( error, branch ) {
   
     });
 });
-
